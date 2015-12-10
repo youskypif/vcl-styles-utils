@@ -11,3 +11,5 @@ Installation :
 
  if you want to use the VCl.Styles.Hooks unit you must also include the Delphi detours library files 
    Ex : C:\Delphi\Libs\vcl-styles-utils\Common\delphi-detours-library
+
+test greg
